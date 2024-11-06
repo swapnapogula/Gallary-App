@@ -1,0 +1,12 @@
+/* Write your code here. */
+.list-image {
+  margin: 10px;
+}
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
